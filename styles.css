@@ -1,0 +1,68 @@
+/* Global Styles */
+li {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+section {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;;
+}
+
+/* Color Section */
+
+.colors div {
+    display: inline-block;
+    padding-top: 100px;
+    padding-right: 50px;
+    border: 1px solid black;
+    margin: 8px;
+}
+.colors ul {
+    list-style: none;
+    padding-left: 15px;
+}
+
+/* Font Section */
+.roboto-con {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+
+}
+.mali {
+    font-family: 'Mali', cursive;
+
+}
+h3 {
+    font-weight: bold;
+    font-size: 20px;
+}
+.bold-text {
+    font-weight: bold;
+}
+.italic-text {
+    font-style: italic;
+}
+.capital-text {
+    text-transform: uppercase;
+}
+
+/* Styles Section */
+h2 {
+    font-family: 'Mali', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+.paragraph p {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 15px;
+    font-weight: normal;
+}
